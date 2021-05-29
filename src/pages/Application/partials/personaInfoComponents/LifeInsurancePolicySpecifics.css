@@ -1,0 +1,22 @@
+.lips {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  max-width: 1000px;
+  justify-content: center;
+  margin: 15px 0;
+}
+
+.lips__container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.lips__questionContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 15px 5px;
+  background-color: #f8f8f8;
+}

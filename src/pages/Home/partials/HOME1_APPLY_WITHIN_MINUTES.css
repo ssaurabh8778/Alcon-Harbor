@@ -1,0 +1,35 @@
+.home1__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 25px 0;
+  height: 500px;
+}
+
+.home1__container > h3 {
+  max-width: 900px;
+}
+
+.home1__selectContainer {
+  display: flex;
+  max-width: 1000px;
+  align-self: center;
+  flex-direction: column;
+}
+
+.home1__selectRow {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+  min-width: 1000px;
+  justify-content: space-between;
+}
+
+.home1__inputStyle3 {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  min-width: 250px;
+  max-width: 328px;
+}

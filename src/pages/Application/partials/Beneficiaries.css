@@ -1,0 +1,45 @@
+.beneficiaries__container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.beneficiary__container {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.beneficiary__selectContainer {
+  display: flex;
+  max-width: 1000px;
+  flex-direction: column;
+}
+
+.beneficiary__selectRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 5px;
+  justify-content: space-between;
+}
+
+.beneficiary__inputStyle1 {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  max-width: 450px;
+  min-width: 250px;
+}
+.beneficiary__inputStyle2 {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  max-width: 450px;
+  min-width: 250px;
+}
